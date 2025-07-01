@@ -1,0 +1,128 @@
+ <div class="row freeshipping">
+          <div class="col-sm-4 col-md-4">
+            <div class="row">
+              <div class="col-sm-3 col-md-1 col-lg-3  io">
+                <img src="freeshipping.svg" alt="">
+              </div>
+              <div class="col-sm-9 col-md-11 col-lg-9">
+                <p>Free shipping.<br>
+                  Free nationalwide delivery on order
+                  above Rs.5000
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-4 col-md-4">
+            <div class="row">
+              <div class="col-sm-3 col-md-1 col-lg-3 io"><a href="contactus.html">
+                <img src="supportlogo.svg" alt=""></a>
+              </div>
+              <div class="col-sm-9 col-md-11 col-lg-9">
+                <p>SUPPORT<br>
+                  Contact us 09:00 - 18:00 PKT, (Monday to Saturday)
+                  Contact : +92 300 0342625 Email:customercare@dhanak.com.pk
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-4 col-md-4">
+            <div class="row">
+              <div class="col-sm-3 col-md-1 col-lg-3 io">
+                <img src="paymentmethod.svg" alt="">
+              </div>
+              <div class="col-sm-9 col-md-11 col-lg-9">
+                <p>Payment Methods <br>
+                  COD, Credit Card: Visa, Master Card
+                </p>
+              </div>
+            </div>
+          </div>
+         </div><hr>
+<!-- Footer -->
+<div class="row footer" id="footer">
+  <div class="col-sm-3 im">
+   <img class="img-fluid" src="crochet logo.png" alt="..." style=" height: 170px; width: 170px; ">
+   <br>
+     <i class="fa-brands fa-square-facebook"></i>
+     <i class="fa-brands fa-youtube"></i>
+      <i class="fa-brands fa-square-instagram"></i>
+      <i class="fa-brands fa-square-x-twitter"></i>
+  </div>
+
+  <div class="col-sm-3 quick">
+    <ul>
+     <li><b>QUICK LINKS</b></li><hr>
+     <li><a href="myaccount.html">My Account</a></li><br>
+     <li><a href="contactus.html">Contact Us</a></li><br>
+     <li>Terms and Conditions</li><br>
+     <li>Return Policy</li><br>
+    </ul>
+   </div>
+
+   <div class="col-sm-3 abou" >
+    <ul>
+    
+    <li><b>ABOUT US</b></li><hr>
+    <li><a href="aboutus.html"> Brand Vision</a></li><br>
+      <li>Why buy from us</li><br>
+        <li>Terms and Conditions</li><br>
+
+   </ul>
+   </div>
+
+   <div class="col-sm-3 sub" >
+   
+            <h3>Subscribe to our emails</h3><hr>
+            <p>Subscribe to our mailing list for insider news, product launches, and more.</p>
+            <input type="email" placeholder="Email address..." ><br>
+            <a  href="myaccount.html"><button type="submit"><b>Subcribe</b></button>
+
+   </div>
+</div>
+        </div> 
+
+ <!--footer small-->
+<div class="row footer2" id="footer2">
+    <div class="col-sm-3 im">
+    <img class="img-fluid" src="crochet logo.png" alt="..." style=" height: 170px; width: 170px; ">
+    <br>
+    <i class="fa-brands fa-square-facebook"></i>
+    <i class="fa-brands fa-youtube"></i>
+    <i class="fa-brands fa-square-instagram"></i>
+    <i class="fa-brands fa-square-x-twitter"></i>
+    </div>
+    <br><br><br>
+    <div class="col-sm-3 quick">
+    <ul>
+    <li><b>QUICK LINKS</b></li><hr>
+    <li><a href="myaccount.html">My Account</a></li><br>
+    <li><a href="contactus.html">Contact Us</a></li><br>
+    <li>Terms and Conditions</li><br>
+    <li>Return Policy</li><br>
+    </ul>
+    </div>
+    
+    <div class="col-sm-3 abou" >
+    <ul>
+    
+    <li><b>ABOUT US</b></li><hr>
+    <li><a href="aboutus.html"> Brand Vision</a></li><br>
+    <li>Why buy from us</li><br>
+      <li>Terms and Conditions</li><br>
+    
+    </ul>
+    </div>
+    
+    <div class="col-sm-3 sub" >
+    
+          <h3>Subscribe to our emails</h3><hr>
+          <p>Subscribe to our mailing list for insider news, product launches, and more.</p>
+          <input type="email" placeholder="Email address..." ><br>
+          <button type="submit"><b>Subcribe</b></button>
+    
+    </div>
+    </div>
+     
+  

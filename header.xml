@@ -1,0 +1,127 @@
+ <div class="container-fluid navl" id="nav1">
+        <div class="row">
+            <div class="col-sm-1 logo">
+               <a href="home.html"> <img  src="crochet logo.png" alt="logo"></a>
+            </div>
+        <div class="col-sm-8">
+            <ul class="nav-links">
+                <span class="menu">
+                    <li><a href="new.html">NEW</a></li>
+                
+                </span>
+                <span class="menu">
+                  <li><a href="women.html">WOMEN</a></li>
+              </span>
+                                        <span class="menu">
+                                            <li class="dropdown"><a  class=" dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"href="news.asp">COLLECTION</a>
+                                                <ul class="dropdown-menu">
+                                                
+                                                    <li><a href="bagsandpurses.html">Bags and Purses</a></li>
+                                                    
+                                                    <li><a href="accessories.html">Accessories</a></li>
+                                                    <li><a href="kitchenanddining.html">Kitchen and Dining</a></li>
+                                                    <li><a href="placemats.html">Placemats</a></li>
+                                                    <li><a href="storagebasketsandorganizers.html">Storage Baskets and Organizers</a></li>
+                                                </ul>
+                                            </li>
+                                        </span>
+
+                                         <span class="menu">
+                                            <li class="dropdown"><a  class=" dropdown-toggle" data-bs-toggle="dropdown" href="babysets.html" role="button">BABY SETS</a>
+                                                <ul class="dropdown-menu">
+                                                 <li><a href="babysets.html">Baby sets</a></li>
+                                                    <li><a href="babyblanket.html">Blankets</a></li>
+                                                    <li><a href="toys.html">Toys </a></li>
+                                                   
+                                                </ul>
+                                            </li>
+                                        </span>
+                                          <span class="menu">
+                                            <li><a href="myaccount.html">MY ACCOUNT</a></li>
+                    
+                                          </span>
+                                          <span class="menu">
+                                            <li><a href="aboutus.html">ABOUT US</a></li>
+                    
+                                          </span>     
+                                    </ul>
+        </div>
+        <div class="col-sm-3 icon1">
+                  
+                   <input class="inp" type="search" placeholder="Search">
+
+                  <a href="myaccount.html" target="_self">         
+                      <i class="fa-solid fa-user fa-lg"></i>             
+                     </a>
+                  <a href="home.html">
+                      <i class="fa-solid fa-house fa-lg"></i>
+                  </a>
+                  <a id="cart-icon" href="addtocart.html">
+                 
+
+                      <i  class="fa-solid fa-cart-shopping fa-lg">
+                    </i>
+                   
+
+                     
+                  </a>
+                  
+
+        </div>
+        </div>
+        </div>
+
+        
+    </div>
+    <!-- 2 navbar -->
+    <div class="container-fluid navs">
+        <div class="row">
+          <div class="col-2">
+    
+            <div class="sidebar" id="sidebar">
+              <button class="close-btn" onclick="closeSidebar()">×</button>
+
+              <a href="#"><b>MENU</b></a>
+              <a href="new.html">NEW</a>
+              <a href="women.html">WOMEN </a>
+               <a href="bagsandpurses.html">BAGS AND PURSES</a>
+                  <a href="accessories.html">ACCESSORIES</a>
+                  <a href="kitchenanddining.html">KITCHEN AND DINING</a>
+                  <a href="placemats.html">PLACEMATS</a>
+                  <a href="storagebasketsandorganizers.html">STORAGE BASKETS AND ORGANIZERS</a>
+               <a href="babysets.html">BABY SETS</a>
+                  <a href="babyblanket.html">BLANKETS</a>
+                <a href="toys.html">TOYS</a>
+          
+              <a href="myaccount.html">MY ACCOUNT</a>
+              <a href="contactus.html">CONTACT US</a>
+              <input class="inp" type="search" placeholder="Search">
+            </div>
+    
+            <button class="open-btn" onclick="openSidebar()">☰</button>
+         
+        <!--image tag-->    
+          </div>
+          <div class="col-7 imag"  >
+            <a href="home.html"><img  src="crochet logo.png" alt="logo">
+          </a>
+          </div>
+       <!--icon tags-->
+          <div class="col-3 icon">
+
+           <a href="myaccount.html">         
+               <i class="fa-solid fa-user fa-lg" ></i>             
+              </a>
+           <a href="home.html">
+               <i class="fa-solid fa-house fa-lg"></i>
+           </a>
+            <a href="addtocart.html">
+                      <i  class="fa-solid fa-cart-shopping fa-lg"></i>
+                     
+                  </a>
+                  
+
+ </div>
+        </div>
+      </div>
+      <script src="clothing.js"></script>
